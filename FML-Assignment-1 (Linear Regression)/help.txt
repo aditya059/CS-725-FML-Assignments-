@@ -1,0 +1,24 @@
+## Competition Link:
+
+https://www.kaggle.com/t/72af1280a5dd44e2b4e36d9f7af06298 
+
+
+## Help List:
+
+https://www.geeksforgeeks.org/vectorization-in-python/
+
+https://realpython.com/numpy-array-programming/
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+
+https://www.geeksforgeeks.org/python-read-csv-using-pandas-read_csv/
+
+https://cs231n.github.io/python-numpy-tutorial/
+
+https://en.wikipedia.org/wiki/Feature_scaling
+
+https://www.youtube.com/watch?v=gV5fD8Xbwgk&feature=youtu.be
+
+https://www.youtube.com/watch?v=zLRB4oupj6g&feature=youtu.be
+
+https://www.youtube.com/watch?v=zm5cqvfKO-o&feature=youtu.be
